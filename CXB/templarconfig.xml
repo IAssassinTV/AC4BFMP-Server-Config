@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root>
+  <TemplarConfig>
+    <E32012FakeTemplarConfig>
+      <FakeTemplarProfile Name="ACIV1" Level="20" Title="336016" ClanTag="" PatronPicture="1184595461" EmblemSymbol="1177836380" EmblemSymbolColor="1151243895" EmblemPattern="644672014" EmblemPatternColor="1339669374" EmblemPatternOffsetX="0.0" EmblemPatternOffsetY="0.0" EmblemPatternScale="1.0" LadderRate="1854" LadderReserve="1" LadderRank="437221" LadderCategory="0"/>
+      <FakeTemplarProfile Name="ACIV2" Level="27" Title="335858" ClanTag="" PatronPicture="1184595405" EmblemSymbol="1177836380" EmblemSymbolColor="1151243895" EmblemPattern="644672014" EmblemPatternColor="1339669374" EmblemPatternOffsetX="0.0" EmblemPatternOffsetY="0.0" EmblemPatternScale="1.0" LadderRate="1192" LadderReserve="1" LadderRank="411810" LadderCategory="0"/>
+      <FakeTemplarProfile Name="ACIV3" Level="32" Title="335794" ClanTag="" PatronPicture="1184595391" EmblemSymbol="1177836380" EmblemSymbolColor="1151243895" EmblemPattern="644672014" EmblemPatternColor="1339669374" EmblemPatternOffsetX="0.0" EmblemPatternOffsetY="0.0" EmblemPatternScale="1.0" LadderRate="1982" LadderReserve="2" LadderRank="382403" LadderCategory="1"/>
+      <FakeTemplarProfile Name="ACIV4" Level="18" Title="370751" ClanTag="" PatronPicture="1184595335" EmblemSymbol="1177836380" EmblemSymbolColor="1151243895" EmblemPattern="644672014" EmblemPatternColor="1339669374" EmblemPatternOffsetX="0.0" EmblemPatternOffsetY="0.0" EmblemPatternScale="1.0" LadderRate="1642" LadderReserve="2" LadderRank="305132" LadderCategory="1"/>
+      <FakeTemplarProfile Name="ACIV5" Level="31" Title="335761" ClanTag="" PatronPicture="1184595503" EmblemSymbol="1177836380" EmblemSymbolColor="1151243895" EmblemPattern="644672014" EmblemPatternColor="1339669374" EmblemPatternOffsetX="0.0" EmblemPatternOffsetY="0.0" EmblemPatternScale="1.0" LadderRate="1883" LadderReserve="3" LadderRank="279741" LadderCategory="2"/>
+      <FakeTemplarProfile Name="ACIV6" Level="33" Title="335879" ClanTag="" PatronPicture="1184595433" EmblemSymbol="1177836380" EmblemSymbolColor="1151243895" EmblemPattern="644672014" EmblemPatternColor="1339669374" EmblemPatternOffsetX="0.0" EmblemPatternOffsetY="0.0" EmblemPatternScale="1.0" LadderRate="2122" LadderReserve="3" LadderRank="219003" LadderCategory="2"/>
+      <FakeTemplarProfile Name="ACIV7" Level="16" Title="335762" ClanTag="" PatronPicture="1184595517" EmblemSymbol="1177836380" EmblemSymbolColor="1151243895" EmblemPattern="644672014" EmblemPatternColor="1339669374" EmblemPatternOffsetX="0.0" EmblemPatternOffsetY="0.0" EmblemPatternScale="1.0" LadderRate="1899" LadderReserve="4" LadderRank="137454" LadderCategory="3"/>
+      <FakeTemplarProfile Name="ACIV8" Level="40" Title="335764" ClanTag="" PatronPicture="1184595349" EmblemSymbol="1177836380" EmblemSymbolColor="1151243895" EmblemPattern="644672014" EmblemPatternColor="1339669374" EmblemPatternOffsetX="0.0" EmblemPatternOffsetY="0.0" EmblemPatternScale="1.0" LadderRate="3081" LadderReserve="5" LadderRank="159396" LadderCategory="4"/>
+    </E32012FakeTemplarConfig>
+  </TemplarConfig>
+</root>

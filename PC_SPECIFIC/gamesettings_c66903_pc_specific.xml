@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- DLC6 icon for class pack -->
+  <Field ObjectID="2177435850" PropertyName="Icon" value="1141336666" />
+  <!-- DLC8 icon for class pack -->
+  <Field ObjectID="3393189598" PropertyName="Icon" value="3847094112" />
+  <!-- DLC9 icon for class pack -->
+  <Field ObjectID="196538371" PropertyName="Icon" value="3814058099" />
+
+</root>

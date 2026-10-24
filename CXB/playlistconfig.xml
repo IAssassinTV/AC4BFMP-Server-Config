@@ -1,0 +1,1234 @@
+<?xml version="1.0"?>
+<Playlists>
+  <Playlist id="2" preference="4" engineName="Team Objectives" oasisId="335408" description="335424" shortDescription="374335" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="1" statutFlag="2" sessionType="2" groupModes="true" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
+    <modes>
+      <mode id="12"/>
+      <mode id="14"/>
+      <mode id="10"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873362"/>
+      <map id="12873371"/>
+      <map id="1176549195"/>
+      <map id="12873386"/>
+      <map id="12873453"/>
+      <map id="12873395"/>
+      <map id="1476191984"/>
+      <map id="1176549885"/>
+      <map id="12873368"/>
+      <map id="12873380"/>
+      <map id="1176549879"/>
+      <map id="12873392"/>
+      <map id="12873459"/>
+      <map id="12873401"/>
+      <map id="3526959590"/>
+      <map id="1473204474"/>
+      <map id="1473204467"/>
+      <map id="2569229107"/>
+      <map id="3839878127"/>
+      <map id="3839878121"/>
+      <map id="2569229101"/>
+      <map id="3839878061"/>
+      <map id="3839878055"/>
+      <map id="3824959457"/>
+      <map id="3839877665"/>
+      <map id="3839877659"/>
+    </maps>
+  </Playlist>
+  <Playlist id="1" preference="5" engineName="Free For All" oasisId="335407" description="335460" shortDescription="374334" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
+    <modes>
+      <mode id="4"/>
+      <mode id="9"/>
+      <mode id="6"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="1334080523"/>
+      <map id="194686397"/>
+      <map id="1334080661"/>
+      <map id="817925992"/>
+      <map id="1334081085"/>
+      <map id="817926006"/>
+      <map id="1334080859"/>
+      <map id="194686408"/>
+      <map id="1334080797"/>
+      <map id="817925999"/>
+      <map id="1334081136"/>
+      <map id="2569229104"/>
+      <map id="1334080599"/>
+      <map id="1364636314"/>
+      <map id="1334081190"/>
+      <map id="1476192023"/>
+      <map id="1334080552"/>
+      <map id="2063828221"/>
+      <map id="1334080690"/>
+      <map id="12873362"/>
+      <map id="1334081100"/>
+      <map id="12873371"/>
+      <map id="1334080877"/>
+      <map id="1176549195"/>
+      <map id="1334080812"/>
+      <map id="12873386"/>
+      <map id="1334081154"/>
+      <map id="12873453"/>
+      <map id="1334080614"/>
+      <map id="12873395"/>
+      <map id="1334081211"/>
+      <map id="1476191984"/>
+      <map id="1334080570"/>
+      <map id="1176549885"/>
+      <map id="1334080779"/>
+      <map id="12873368"/>
+      <map id="1334081118"/>
+      <map id="12873380"/>
+      <map id="1334080906"/>
+      <map id="1176549879"/>
+      <map id="1334080833"/>
+      <map id="12873392"/>
+      <map id="1334081172"/>
+      <map id="12873459"/>
+      <map id="1334080643"/>
+      <map id="12873401"/>
+      <map id="1334081226"/>
+      <map id="1334080526"/>
+      <map id="1334080532"/>
+      <map id="1334080681"/>
+      <map id="1334080684"/>
+      <map id="1334081088"/>
+      <map id="1334081094"/>
+      <map id="1334080865"/>
+      <map id="1334080871"/>
+      <map id="1334080800"/>
+      <map id="1334080806"/>
+      <map id="1334081142"/>
+      <map id="1334081148"/>
+      <map id="1334080602"/>
+      <map id="1334080608"/>
+      <map id="1334081196"/>
+      <map id="1334081202"/>
+      <map id="1334080555"/>
+      <map id="1334080564"/>
+      <map id="1334080696"/>
+      <map id="1334080702"/>
+      <map id="1334081106"/>
+      <map id="1334081112"/>
+      <map id="1334080897"/>
+      <map id="1334080900"/>
+      <map id="1334081163"/>
+      <map id="1334081166"/>
+      <map id="1334080818"/>
+      <map id="1334080824"/>
+      <map id="1334080620"/>
+      <map id="1334080637"/>
+      <map id="1334081214"/>
+      <map id="1334081220"/>
+      <map id="1334080573"/>
+      <map id="1334080582"/>
+      <map id="1334080785"/>
+      <map id="1334080788"/>
+      <map id="1334081124"/>
+      <map id="1334081133"/>
+      <map id="1334080915"/>
+      <map id="1334081079"/>
+      <map id="1334080836"/>
+      <map id="1334080842"/>
+      <map id="1334081178"/>
+      <map id="1334081184"/>
+      <map id="1334080649"/>
+      <map id="1334080655"/>
+      <map id="1334081232"/>
+      <map id="1334081238"/>
+      <map id="3526959590"/>
+      <map id="1473204474"/>
+      <map id="1473204467"/>
+      <map id="3839877725"/>
+      <map id="3839877731"/>
+      <map id="3839877737"/>
+      <map id="3839877761"/>
+      <map id="3839877767"/>
+      <map id="3839877773"/>
+      <map id="3839877743"/>
+      <map id="3839877749"/>
+      <map id="3839877755"/>
+      <map id="2569229107"/>
+      <map id="3839878127"/>
+      <map id="3839878121"/>
+      <map id="3839878133"/>
+      <map id="3839878139"/>
+      <map id="3839878148"/>
+      <map id="3839878169"/>
+      <map id="3839878175"/>
+      <map id="3839878181"/>
+      <map id="3839878151"/>
+      <map id="3839878157"/>
+      <map id="3839878163"/>
+      <map id="2569229101"/>
+      <map id="3839878061"/>
+      <map id="3839878055"/>
+      <map id="3839878067"/>
+      <map id="3839878073"/>
+      <map id="3839878079"/>
+      <map id="3839878103"/>
+      <map id="3839878109"/>
+      <map id="3839878115"/>
+      <map id="3839878085"/>
+      <map id="3839878091"/>
+      <map id="3839878097"/>
+      <map id="3824959457"/>
+      <map id="3839877671"/>
+      <map id="3839877677"/>
+      <map id="3839877683"/>
+      <map id="3839877665"/>
+      <map id="3839877707"/>
+      <map id="3839877713"/>
+      <map id="3839877719"/>
+      <map id="3839877659"/>
+      <map id="3839877689"/>
+      <map id="3839877695"/>
+      <map id="3839877701"/>
+    </maps>
+  </Playlist>
+  <Playlist id="7" preference="0" engineName="Closed Wolf Pack - Story" oasisId="341741" description="373017" shortDescription="373017" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="3" devPlaylist="false">
+    <modes>
+      <mode id="2"/>
+    </modes>
+    <maps>
+      <map id="817925999"/>
+      <map id="1364636314"/>
+      <map id="2569229104"/>
+      <map id="194686397"/>
+      <map id="3632686123"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925992"/>
+      <map id="3526959590"/>
+      <map id="2569229107"/>
+      <map id="2569229101"/>
+      <map id="3824959457"/>
+    </maps>
+  </Playlist>
+  <Playlist id="5" preference="0" engineName="Wolf Pack Open - Standard" oasisId="341741" description="342026" shortDescription="374332" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="3" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
+    <modes>
+      <mode id="2"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873362"/>
+      <map id="12873371"/>
+      <map id="1176549195"/>
+      <map id="12873386"/>
+      <map id="12873453"/>
+      <map id="12873395"/>
+      <map id="3526959590"/>
+      <map id="1473204474"/>
+      <map id="2569229107"/>
+      <map id="3839878127"/>
+      <map id="2569229101"/>
+      <map id="3839878061"/>
+      <map id="3824959457"/>
+      <map id="3839877665"/>
+    </maps>
+  </Playlist>
+  <Playlist id="6" preference="0" engineName="Closed Wolf Pack" oasisId="341741" description="341485" shortDescription="341485" groupSize="4" hidden="false" sessionSize="4" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="4" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false">
+    <modes>
+      <mode id="2"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873362"/>
+      <map id="12873371"/>
+      <map id="1176549195"/>
+      <map id="12873386"/>
+      <map id="12873453"/>
+      <map id="12873395"/>
+      <map id="3526959590"/>
+      <map id="1473204474"/>
+      <map id="2569229107"/>
+      <map id="3839878127"/>
+      <map id="2569229101"/>
+      <map id="3839878061"/>
+      <map id="3824959457"/>
+      <map id="3839877665"/>
+    </maps>
+  </Playlist>
+  <Playlist id="8" preference="0" engineName="Private" oasisId="336435" description="337395" shortDescription="374333" groupSize="8" hidden="false" sessionSize="8" dlcId="0" leaderboardId="0" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="true" difficulty="0" devPlaylist="false">
+    <modes>
+      <mode id="12"/>
+      <mode id="14"/>
+      <mode id="10"/>
+      <mode id="4"/>
+      <mode id="9"/>
+      <mode id="6"/>
+      <mode id="11"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="1334080523"/>
+      <map id="194686397"/>
+      <map id="1334080661"/>
+      <map id="817925992"/>
+      <map id="1334081085"/>
+      <map id="817926006"/>
+      <map id="1334080859"/>
+      <map id="194686408"/>
+      <map id="1334080797"/>
+      <map id="817925999"/>
+      <map id="1334081136"/>
+      <map id="2569229104"/>
+      <map id="1334080599"/>
+      <map id="1364636314"/>
+      <map id="1334081190"/>
+      <map id="1476192023"/>
+      <map id="1334080552"/>
+      <map id="2063828221"/>
+      <map id="1334080690"/>
+      <map id="12873362"/>
+      <map id="1334081100"/>
+      <map id="12873371"/>
+      <map id="1334080877"/>
+      <map id="1176549195"/>
+      <map id="1334080812"/>
+      <map id="12873386"/>
+      <map id="1334081154"/>
+      <map id="12873453"/>
+      <map id="1334080614"/>
+      <map id="12873395"/>
+      <map id="1334081211"/>
+      <map id="1476191984"/>
+      <map id="1334080570"/>
+      <map id="1176549885"/>
+      <map id="1334080779"/>
+      <map id="12873368"/>
+      <map id="1334081118"/>
+      <map id="12873380"/>
+      <map id="1334080906"/>
+      <map id="1176549879"/>
+      <map id="1334080833"/>
+      <map id="12873392"/>
+      <map id="1334081172"/>
+      <map id="12873459"/>
+      <map id="1334080643"/>
+      <map id="12873401"/>
+      <map id="1334081226"/>
+      <map id="1334080526"/>
+      <map id="1334080532"/>
+      <map id="1334080681"/>
+      <map id="1334080684"/>
+      <map id="1334081088"/>
+      <map id="1334081094"/>
+      <map id="1334080865"/>
+      <map id="1334080871"/>
+      <map id="1334080800"/>
+      <map id="1334080806"/>
+      <map id="1334081142"/>
+      <map id="1334081148"/>
+      <map id="1334080602"/>
+      <map id="1334080608"/>
+      <map id="1334081196"/>
+      <map id="1334081202"/>
+      <map id="1334080555"/>
+      <map id="1334080564"/>
+      <map id="1334080696"/>
+      <map id="1334080702"/>
+      <map id="1334081106"/>
+      <map id="1334081112"/>
+      <map id="1334080897"/>
+      <map id="1334080900"/>
+      <map id="1334081163"/>
+      <map id="1334081166"/>
+      <map id="1334080818"/>
+      <map id="1334080824"/>
+      <map id="1334080620"/>
+      <map id="1334080637"/>
+      <map id="1334081214"/>
+      <map id="1334081220"/>
+      <map id="1334080573"/>
+      <map id="1334080582"/>
+      <map id="1334080785"/>
+      <map id="1334080788"/>
+      <map id="1334081124"/>
+      <map id="1334081133"/>
+      <map id="1334080915"/>
+      <map id="1334081079"/>
+      <map id="1334080836"/>
+      <map id="1334080842"/>
+      <map id="1334081178"/>
+      <map id="1334081184"/>
+      <map id="1334080649"/>
+      <map id="1334080655"/>
+      <map id="1334081232"/>
+      <map id="1334081238"/>
+      <map id="3526959590"/>
+      <map id="1473204474"/>
+      <map id="1473204467"/>
+      <map id="3839877725"/>
+      <map id="3839877731"/>
+      <map id="3839877737"/>
+      <map id="3839877761"/>
+      <map id="3839877767"/>
+      <map id="3839877773"/>
+      <map id="3839877743"/>
+      <map id="3839877749"/>
+      <map id="3839877755"/>
+      <map id="2569229107"/>
+      <map id="3839878127"/>
+      <map id="3839878121"/>
+      <map id="3839878133"/>
+      <map id="3839878139"/>
+      <map id="3839878148"/>
+      <map id="3839878169"/>
+      <map id="3839878175"/>
+      <map id="3839878181"/>
+      <map id="3839878151"/>
+      <map id="3839878157"/>
+      <map id="3839878163"/>
+      <map id="2569229101"/>
+      <map id="3839878061"/>
+      <map id="3839878055"/>
+      <map id="3839878067"/>
+      <map id="3839878073"/>
+      <map id="3839878079"/>
+      <map id="3839878103"/>
+      <map id="3839878109"/>
+      <map id="3839878115"/>
+      <map id="3839878085"/>
+      <map id="3839878091"/>
+      <map id="3839878097"/>
+      <map id="3824959457"/>
+      <map id="3839877671"/>
+      <map id="3839877677"/>
+      <map id="3839877683"/>
+      <map id="3839877665"/>
+      <map id="3839877707"/>
+      <map id="3839877713"/>
+      <map id="3839877719"/>
+      <map id="3839877659"/>
+      <map id="3839877689"/>
+      <map id="3839877695"/>
+      <map id="3839877701"/>
+    </maps>
+  </Playlist>
+  <Playlist id="20" preference="0" engineName="UGM Public" oasisId="377292" description="377293" shortDescription="377294" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="0" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="false" ugmType="2">
+    <modes>
+      <mode id="12" ugmID="51" ugmCode="8cf350cf570199004000000000fc00100004180c80b00100000000005204b0cb0640640b0b20e8787f" mapfromcode="false"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873362"/>
+      <map id="12873371"/>
+      <map id="1176549195"/>
+      <map id="12873386"/>
+      <map id="12873453"/>
+      <map id="12873395"/>
+      <map id="1476191984"/>
+      <map id="1334080570"/>
+      <map id="1176549885"/>
+      <map id="1334080779"/>
+      <map id="12873368"/>
+      <map id="1334081118"/>
+      <map id="12873380"/>
+      <map id="1334080906"/>
+      <map id="1176549879"/>
+      <map id="1334080833"/>
+      <map id="12873392"/>
+      <map id="1334081172"/>
+      <map id="12873459"/>
+       --&gt;
+      <map id="1334080643"/>
+       --&gt;
+      <map id="12873401"/>
+       --&gt;
+      <map id="1334081226"/>
+       --&gt;
+      <map id="1334080526"/>
+      <map id="1334080532"/>
+      <map id="1334080681"/>
+      <map id="1334080684"/>
+      <map id="1334081088"/>
+      <map id="1334081094"/>
+      <map id="1334080865"/>
+      <map id="1334080871"/>
+      <map id="1334080800"/>
+      <map id="1334080806"/>
+      <map id="1334081142"/>
+      <map id="1334081148"/>
+      <map id="1334080602"/>
+      <map id="1334080608"/>
+      <map id="1334081196"/>
+      <map id="1334081202"/>
+      <map id="1334080555"/>
+      <map id="1334080564"/>
+      <map id="1334080696"/>
+      <map id="1334080702"/>
+      <map id="1334081106"/>
+      <map id="1334081112"/>
+      <map id="1334080897"/>
+      <map id="1334080900"/>
+      <map id="1334081163"/>
+      <map id="1334081166"/>
+      <map id="1334080818"/>
+      <map id="1334080824"/>
+      <map id="1334080620"/>
+      <map id="1334081214"/>
+      <map id="1334081220"/>
+      <map id="1334080573"/>
+      <map id="1334080582"/>
+      <map id="1334080785"/>
+      <map id="1334080788"/>
+      <map id="1334081124"/>
+      <map id="1334081133"/>
+      <map id="1334080915"/>
+      <map id="1334081079"/>
+      <map id="1334080836"/>
+      <map id="1334080842"/>
+      <map id="1334081178"/>
+      <map id="1334081184"/>
+      <map id="1334080649"/>
+      <map id="1334080655"/>
+      <map id="1334081232"/>
+      <map id="1334081238"/>
+      <map id="3526959590"/>
+      <map id="1473204474"/>
+      <map id="1473204467"/>
+      <map id="3839877725"/>
+      <map id="3839877731"/>
+      <map id="3839877737"/>
+      <map id="3839877761"/>
+      <map id="3839877767"/>
+      <map id="3839877773"/>
+      <map id="3839877743"/>
+      <map id="3839877749"/>
+      <map id="3839877755"/>
+      <map id="2569229107"/>
+      <map id="3839878127"/>
+      <map id="3839878121"/>
+      <map id="3839878133"/>
+      <map id="3839878139"/>
+      <map id="3839878148"/>
+      <map id="3839878169"/>
+      <map id="3839878175"/>
+      <map id="3839878181"/>
+      <map id="3839878151"/>
+      <map id="3839878157"/>
+      <map id="3839878163"/>
+      <map id="2569229101"/>
+      <map id="3839878061"/>
+      <map id="3839878055"/>
+      <map id="3839878067"/>
+      <map id="3839878073"/>
+      <map id="3839878079"/>
+      <map id="3839878103"/>
+      <map id="3839878109"/>
+      <map id="3839878115"/>
+      <map id="3839878085"/>
+      <map id="3839878091"/>
+      <map id="3839878097"/>
+      <map id="3824959457"/>
+      <map id="3839877671"/>
+      <map id="3839877677"/>
+      <map id="3839877683"/>
+      <map id="3839877665"/>
+      <map id="3839877707"/>
+      <map id="3839877713"/>
+      <map id="3839877719"/>
+      <map id="3839877659"/>
+      <map id="3839877689"/>
+      <map id="3839877695"/>
+      <map id="3839877701"/>
+    </maps>
+  </Playlist>
+  <Playlist id="18" preference="0" engineName="UGM" oasisId="375383" description="375384" shortDescription="375385" groupSize="8" hidden="false" sessionSize="8" dlcId="0" leaderboardId="0" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="true" difficulty="0" devPlaylist="false" ugmType="1">
+    <modes>
+      <mode id="12"/>
+      <mode id="14"/>
+      <mode id="10"/>
+      <mode id="4"/>
+      <mode id="9"/>
+      <mode id="6"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="1334080523"/>
+      <map id="194686397"/>
+      <map id="1334080661"/>
+      <map id="817925992"/>
+      <map id="1334081085"/>
+      <map id="817926006"/>
+      <map id="1334080859"/>
+      <map id="194686408"/>
+      <map id="1334080797"/>
+      <map id="817925999"/>
+      <map id="1334081136"/>
+      <map id="2569229104"/>
+      <map id="1334080599"/>
+      <map id="1364636314"/>
+      <map id="1334081190"/>
+      <map id="1476192023"/>
+      <map id="1334080552"/>
+      <map id="2063828221"/>
+      <map id="1334080690"/>
+      <map id="12873362"/>
+      <map id="1334081100"/>
+      <map id="12873371"/>
+      <map id="1334080877"/>
+      <map id="1176549195"/>
+      <map id="1334080812"/>
+      <map id="12873386"/>
+      <map id="1334081154"/>
+      <map id="12873453"/>
+      <map id="1334080614"/>
+      <map id="12873395"/>
+      <map id="1334081211"/>
+      <map id="1476191984"/>
+      <map id="1334080570"/>
+      <map id="1176549885"/>
+      <map id="1334080779"/>
+      <map id="12873368"/>
+      <map id="1334081118"/>
+      <map id="12873380"/>
+      <map id="1334080906"/>
+      <map id="1176549879"/>
+      <map id="1334080833"/>
+      <map id="12873392"/>
+      <map id="1334081172"/>
+      <map id="12873459"/>
+      <map id="1334080643"/>
+      <map id="12873401"/>
+      <map id="1334081226"/>
+      <map id="1334080526"/>
+      <map id="1334080532"/>
+      <map id="1334080681"/>
+      <map id="1334080684"/>
+      <map id="1334081088"/>
+      <map id="1334081094"/>
+      <map id="1334080865"/>
+      <map id="1334080871"/>
+      <map id="1334080800"/>
+      <map id="1334080806"/>
+      <map id="1334081142"/>
+      <map id="1334081148"/>
+      <map id="1334080602"/>
+      <map id="1334080608"/>
+      <map id="1334081196"/>
+      <map id="1334081202"/>
+      <map id="1334080555"/>
+      <map id="1334080564"/>
+      <map id="1334080696"/>
+      <map id="1334080702"/>
+      <map id="1334081106"/>
+      <map id="1334081112"/>
+      <map id="1334080897"/>
+      <map id="1334080900"/>
+      <map id="1334081163"/>
+      <map id="1334081166"/>
+      <map id="1334080818"/>
+      <map id="1334080824"/>
+      <map id="1334080620"/>
+      <map id="1334080637"/>
+      <map id="1334081214"/>
+      <map id="1334081220"/>
+      <map id="1334080573"/>
+      <map id="1334080582"/>
+      <map id="1334080785"/>
+      <map id="1334080788"/>
+      <map id="1334081124"/>
+      <map id="1334081133"/>
+      <map id="1334080915"/>
+      <map id="1334081079"/>
+      <map id="1334080836"/>
+      <map id="1334080842"/>
+      <map id="1334081178"/>
+      <map id="1334081184"/>
+      <map id="1334080649"/>
+      <map id="1334080655"/>
+      <map id="1334081232"/>
+      <map id="1334081238"/>
+      <map id="3526959590"/>
+      <map id="1473204474"/>
+      <map id="1473204467"/>
+      <map id="3839877725"/>
+      <map id="3839877731"/>
+      <map id="3839877737"/>
+      <map id="3839877761"/>
+      <map id="3839877767"/>
+      <map id="3839877773"/>
+      <map id="3839877743"/>
+      <map id="3839877749"/>
+      <map id="3839877755"/>
+      <map id="2569229107"/>
+      <map id="3839878127"/>
+      <map id="3839878121"/>
+      <map id="3839878133"/>
+      <map id="3839878139"/>
+      <map id="3839878148"/>
+      <map id="3839878169"/>
+      <map id="3839878175"/>
+      <map id="3839878181"/>
+      <map id="3839878151"/>
+      <map id="3839878157"/>
+      <map id="3839878163"/>
+      <map id="2569229101"/>
+      <map id="3839878061"/>
+      <map id="3839878055"/>
+      <map id="3839878067"/>
+      <map id="3839878073"/>
+      <map id="3839878079"/>
+      <map id="3839878103"/>
+      <map id="3839878109"/>
+      <map id="3839878115"/>
+      <map id="3839878085"/>
+      <map id="3839878091"/>
+      <map id="3839878097"/>
+      <map id="3824959457"/>
+      <map id="3839877671"/>
+      <map id="3839877677"/>
+      <map id="3839877683"/>
+      <map id="3839877665"/>
+      <map id="3839877707"/>
+      <map id="3839877713"/>
+      <map id="3839877719"/>
+      <map id="3839877659"/>
+      <map id="3839877689"/>
+      <map id="3839877695"/>
+      <map id="3839877701"/>
+    </maps>
+  </Playlist>
+  <Playlist id="19" preference="0" engineName="Clans Playlist" oasisId="375728" description="0" shortDescription="376423" groupSize="4" hidden="false" sessionSize="8" dlcId="0" leaderboardId="0" statutFlag="0" sessionType="6" groupModes="false" isMoneySinkEnabled="true" private="false" devPlaylist="true">
+    <modes>
+      <mode id="12"/>
+      <mode id="14"/>
+      <mode id="10"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873362"/>
+      <map id="12873371"/>
+      <map id="1176549195"/>
+      <map id="12873386"/>
+      <map id="12873453"/>
+      <map id="12873395"/>
+      <map id="1476191984"/>
+      <map id="1176549885"/>
+      <map id="12873368"/>
+      <map id="12873380"/>
+      <map id="1176549879"/>
+      <map id="12873392"/>
+      <map id="12873459"/>
+      <map id="12873401"/>
+      <map id="3526959590"/>
+      <map id="1473204474"/>
+      <map id="1473204467"/>
+      <map id="2569229107"/>
+      <map id="3839878127"/>
+      <map id="3839878121"/>
+      <map id="2569229101"/>
+      <map id="3839878061"/>
+      <map id="3839878055"/>
+      <map id="3824959457"/>
+      <map id="3839877665"/>
+      <map id="3839877659"/>
+    </maps>
+  </Playlist>
+  <Playlist id="11" preference="0" engineName="TUTOS_HIDDEN" oasisId="0" description="0" shortDescription="0" groupSize="1" hidden="true" sessionSize="1" dlcId="0" leaderboardId="1" statutFlag="0" sessionType="2" groupModes="false" isMoneySinkEnabled="true" private="true" difficulty="0" devPlaylist="false">
+    <modes>
+      <mode id="17"/>
+      <mode id="18"/>
+      <mode id="19"/>
+    </modes>
+    <maps>
+      <map id="3749531324"/>
+    </maps>
+  </Playlist>
+  <Playlist id="30" preference="0" engineName="EVENT - UNDER CONTROL" oasisId="378561" description="378562" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="101" statutFlag="0" sessionType="5" groupModes="true" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true" ugmType="2">
+    <modes>
+      <mode id="10" ugmID="50" ugmCode="8a2b6486d8019900d400005cbf010000000040000000000000000000411ce0ac450b3a4c80" mapfromcode="false"/>
+    </modes>
+    <maps>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="2063828221"/>
+      <map id="12873453"/>
+      <map id="12873371"/>
+      <map id="12873362"/>
+      <map id="12873386"/>
+      <map id="12873395"/>
+      <map id="1176549195"/>
+    </maps>
+  </Playlist>
+  <Playlist id="31" preference="0" engineName="EVENT - TAKEOVER" oasisId="378576" description="378577" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="102" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true" ugmType="2">
+    <modes>
+      <mode id="4" ugmID="51" ugmCode="842b6486d80199000004000200000000000040000000000000000000a0" mapfromcode="false"/>
+    </modes>
+    <maps>
+      <map id="3526959590"/>
+      <map id="2569229101"/>
+      <map id="1473204474"/>
+      <map id="3839878061"/>
+    </maps>
+  </Playlist>
+  <Playlist id="32" preference="0" engineName="EVENT - MISERLY SHADOWS" oasisId="378585" description="378586" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="103" statutFlag="0" sessionType="5" groupModes="true" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
+    <modes>
+      <mode id="12"/>
+      <mode id="14"/>
+      <mode id="10"/>
+    </modes>
+    <maps>
+      <map id="1476191984"/>
+      <map id="12873459"/>
+      <map id="1176549885"/>
+      <map id="1176549879"/>
+      <map id="12873380"/>
+      <map id="12873368"/>
+      <map id="12873392"/>
+      <map id="12873401"/>
+      <map id="1473204467"/>
+      <map id="3839878055"/>
+    </maps>
+  </Playlist>
+  <Playlist id="33" preference="0" engineName="EVENT - THE RENEGADES" oasisId="378593" description="378594" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="104" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true" ugmType="2">
+    <modes>
+      <mode id="4" ugmID="53" ugmCode="842b6486d8019900000000fcff0100000000000000000000000000009e26ad550cc3a96140" mapfromcode="false"/>
+      <mode id="9" ugmID="52" ugmCode="890b74844f019900000000fcff0100000000000000000000000000009e26ad550cc3a96140" mapfromcode="false"/>
+      <mode id="6" ugmID="54" ugmCode="862b6486d8019900000000fcff0100000000000000000000000000009e26ad550cc3a96140" mapfromcode="false"/>
+    </modes>
+    <maps>
+      <map id="2569229107"/>
+      <map id="3824959457"/>
+      <map id="3839878127"/>
+      <map id="3839877665"/>
+      <map id="3839878121"/>
+      <map id="3839877659"/>
+    </maps>
+  </Playlist>
+  <Playlist id="34" preference="0" engineName="EVENT - THE FLYING DUTCHMAN" oasisId="378602" description="378603" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="105" statutFlag="0" sessionType="5" groupModes="true" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true" ugmType="2">
+    <modes>
+      <mode id="14" ugmID="55" ugmCode="8e2b6486d8019900002002fcff01000000000014000000000020000038ed191855ec43520c60" mapfromcode="false"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873453"/>
+      <map id="12873371"/>
+      <map id="12873362"/>
+      <map id="12873386"/>
+      <map id="12873395"/>
+      <map id="1176549195"/>
+    </maps>
+  </Playlist>
+  <Playlist id="35" preference="0" engineName="EVENT - UNCERTAIN ALLIANCES" oasisId="378613" description="378614" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="106" statutFlag="0" sessionType="5" groupModes="true" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true" ugmType="2">
+    <modes>
+      <mode id="12" ugmID="56" ugmCode="8c2b6486d8019900800000fcfffdfffe8fcf030000000000000000000a0243098885099047d0fa1f43e87d0fa1f420000000000000000000000001610000019032000000000000000000000000002222" mapfromcode="false"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="3526959590"/>
+      <map id="2569229101"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873453"/>
+      <map id="12873371"/>
+      <map id="12873362"/>
+      <map id="12873386"/>
+      <map id="12873395"/>
+      <map id="1176549195"/>
+      <map id="1473204474"/>
+      <map id="3839878061"/>
+      <map id="1476191984"/>
+      <map id="12873459"/>
+      <map id="1176549885"/>
+      <map id="1176549879"/>
+      <map id="12873380"/>
+      <map id="12873368"/>
+      <map id="12873392"/>
+      <map id="12873401"/>
+      <map id="1473204467"/>
+      <map id="3839878055"/>
+    </maps>
+  </Playlist>
+  <Playlist id="36" preference="0" engineName="EVENT - BLOODBATH" oasisId="378622" description="378623" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="107" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true" ugmType="2">
+    <modes>
+      <mode id="9" ugmID="57" ugmCode="890b74844f019900204000fcff7100000380000a00000000000200000e0a52a48121825133960c80c81612c2a080" mapfromcode="false"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="3526959590"/>
+      <map id="2569229101"/>
+      <map id="3824959457"/>
+      <map id="2569229107"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873453"/>
+      <map id="12873371"/>
+      <map id="12873362"/>
+      <map id="12873386"/>
+      <map id="12873395"/>
+      <map id="1176549195"/>
+      <map id="1473204474"/>
+      <map id="3839878061"/>
+      <map id="3839877665"/>
+      <map id="3839878127"/>
+      <map id="1476191984"/>
+      <map id="12873459"/>
+      <map id="1176549885"/>
+      <map id="1176549879"/>
+      <map id="12873380"/>
+      <map id="12873368"/>
+      <map id="12873392"/>
+      <map id="12873401"/>
+      <map id="1473204467"/>
+      <map id="3839878055"/>
+      <map id="3839877659"/>
+      <map id="3839878121"/>
+      <map id="1334080526"/>
+      <map id="1334080555"/>
+      <map id="1334080573"/>
+      <map id="1334080602"/>
+      <map id="1334080620"/>
+      <map id="1334080649"/>
+      <map id="1334080681"/>
+      <map id="1334080696"/>
+      <map id="1334080785"/>
+      <map id="1334080800"/>
+      <map id="1334080818"/>
+      <map id="1334080836"/>
+      <map id="1334080865"/>
+      <map id="1334080897"/>
+      <map id="1334080915"/>
+      <map id="1334081088"/>
+      <map id="1334081106"/>
+      <map id="1334081124"/>
+      <map id="1334081142"/>
+      <map id="1334081163"/>
+      <map id="1334081178"/>
+      <map id="1334081196"/>
+      <map id="1334081214"/>
+      <map id="1334081232"/>
+      <map id="3839877731"/>
+      <map id="3839877749"/>
+      <map id="3839877767"/>
+      <map id="3839878073"/>
+      <map id="3839878091"/>
+      <map id="3839878109"/>
+      <map id="3839877677"/>
+      <map id="3839877695"/>
+      <map id="3839877713"/>
+      <map id="3839878139"/>
+      <map id="3839878157"/>
+      <map id="3839878175"/>
+    </maps>
+  </Playlist>
+  <Playlist id="37" preference="0" engineName="EVENT - THE ULTIMATE ARMY" oasisId="378631" description="378632" shortDescription="0" groupSize="4" hidden="true" sessionSize="4" dlcId="0" leaderboardId="108" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
+    <modes>
+      <mode id="2"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="817926006"/>
+      <map id="817925999"/>
+      <map id="1476192023"/>
+      <map id="12873371"/>
+      <map id="12873386"/>
+      <map id="1476191984"/>
+      <map id="12873380"/>
+      <map id="12873392"/>
+    </maps>
+  </Playlist>
+  <Playlist id="38" preference="0" engineName="EVENT - SUSPICION" oasisId="378639" description="378640" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="109" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true" ugmType="2">
+    <modes>
+      <mode id="9" ugmID="58" ugmCode="890b74844f019900000000fcff7d042200000008000000000000000092c394e114718594fe8640960c80c87a19039018" mapfromcode="false"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="3526959590"/>
+      <map id="2569229101"/>
+      <map id="2569229107"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873453"/>
+      <map id="12873371"/>
+      <map id="12873362"/>
+      <map id="12873386"/>
+      <map id="12873395"/>
+      <map id="1176549195"/>
+      <map id="1473204474"/>
+      <map id="3839878061"/>
+      <map id="3839877665"/>
+      <map id="3839878127"/>
+      <map id="1476191984"/>
+      <map id="12873459"/>
+      <map id="1176549885"/>
+      <map id="1176549879"/>
+      <map id="12873380"/>
+      <map id="12873368"/>
+      <map id="12873392"/>
+      <map id="12873401"/>
+      <map id="1473204467"/>
+      <map id="3839878055"/>
+      <map id="3839877659"/>
+      <map id="3839878121"/>
+      <map id="1334080532"/>
+      <map id="1334080564"/>
+      <map id="1334080582"/>
+      <map id="1334080608"/>
+      <map id="1334080637"/>
+      <map id="1334080655"/>
+      <map id="1334080684"/>
+      <map id="1334080702"/>
+      <map id="1334080788"/>
+      <map id="1334080806"/>
+      <map id="1334080824"/>
+      <map id="1334080842"/>
+      <map id="1334080871"/>
+      <map id="1334080900"/>
+      <map id="1334081079"/>
+      <map id="1334081094"/>
+      <map id="1334081112"/>
+      <map id="1334081133"/>
+      <map id="1334081148"/>
+      <map id="1334081166"/>
+      <map id="1334081184"/>
+      <map id="1334081202"/>
+      <map id="1334081220"/>
+      <map id="1334081238"/>
+      <map id="3839877737"/>
+      <map id="3839877773"/>
+      <map id="3839877755"/>
+      <map id="3839878079"/>
+      <map id="3839878115"/>
+      <map id="3839878097"/>
+      <map id="3839877683"/>
+      <map id="3839877719"/>
+      <map id="3839877701"/>
+      <map id="3839878148"/>
+      <map id="3839878181"/>
+      <map id="3839878163"/>
+    </maps>
+  </Playlist>
+  <Playlist id="39" preference="0" engineName="EVENT - ABILITIES HACKED" oasisId="378648" description="378649" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="110" statutFlag="0" sessionType="5" groupModes="true" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true" ugmType="2">
+    <modes>
+      <mode id="12" ugmID="64" ugmCode="8c2b6486d8019900002000fc020000000000000000000000000000004b84d5b280" mapfromcode="false"/>
+      <mode id="14" ugmID="65" ugmCode="8e2b6486d8019900002000fc020000000000000000000000000000004b84d5b280" mapfromcode="false"/>
+      <mode id="10" ugmID="63" ugmCode="8a2b6486d8019900002000fc020000000000000000000000000000004b84d5b280" mapfromcode="false"/>
+    </modes>
+    <maps>
+      <map id="3632686123"/>
+      <map id="194686397"/>
+      <map id="817925992"/>
+      <map id="817926006"/>
+      <map id="194686408"/>
+      <map id="817925999"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="3526959590"/>
+      <map id="2569229101"/>
+      <map id="3824959457"/>
+      <map id="2569229107"/>
+      <map id="1476192023"/>
+      <map id="2063828221"/>
+      <map id="12873453"/>
+      <map id="12873371"/>
+      <map id="12873362"/>
+      <map id="12873386"/>
+      <map id="12873395"/>
+      <map id="1176549195"/>
+      <map id="1473204474"/>
+      <map id="3839878061"/>
+      <map id="3839877665"/>
+      <map id="3839878127"/>
+      <map id="1476191984"/>
+      <map id="12873459"/>
+      <map id="1176549885"/>
+      <map id="1176549879"/>
+      <map id="12873380"/>
+      <map id="12873368"/>
+      <map id="12873392"/>
+      <map id="12873401"/>
+      <map id="1473204467"/>
+      <map id="3839878055"/>
+      <map id="3839877659"/>
+      <map id="3839878121"/>
+      <map id="1334080526"/>
+      <map id="1334080555"/>
+      <map id="1334080573"/>
+      <map id="1334080602"/>
+      <map id="1334080620"/>
+      <map id="1334080649"/>
+      <map id="1334080681"/>
+      <map id="1334080696"/>
+      <map id="1334080785"/>
+      <map id="1334080800"/>
+      <map id="1334080818"/>
+      <map id="1334080836"/>
+      <map id="1334080865"/>
+      <map id="1334080897"/>
+      <map id="1334080915"/>
+      <map id="1334081088"/>
+      <map id="1334081106"/>
+      <map id="1334081124"/>
+      <map id="1334081142"/>
+      <map id="1334081163"/>
+      <map id="1334081178"/>
+      <map id="1334081196"/>
+      <map id="1334081214"/>
+      <map id="1334081232"/>
+      <map id="3839877731"/>
+      <map id="3839877767"/>
+      <map id="3839877749"/>
+      <map id="3839878073"/>
+      <map id="3839878109"/>
+      <map id="3839878091"/>
+      <map id="3839877677"/>
+      <map id="3839877713"/>
+      <map id="3839877695"/>
+      <map id="3839878139"/>
+      <map id="3839878175"/>
+      <map id="3839878157"/>
+      <map id="1334080532"/>
+      <map id="1334080564"/>
+      <map id="1334080582"/>
+      <map id="1334080608"/>
+      <map id="1334080637"/>
+      <map id="1334080655"/>
+      <map id="1334080684"/>
+      <map id="1334080702"/>
+      <map id="1334080788"/>
+      <map id="1334080806"/>
+      <map id="1334080824"/>
+      <map id="1334080842"/>
+      <map id="1334080871"/>
+      <map id="1334080900"/>
+      <map id="1334081079"/>
+      <map id="1334081094"/>
+      <map id="1334081112"/>
+      <map id="1334081133"/>
+      <map id="1334081148"/>
+      <map id="1334081166"/>
+      <map id="1334081184"/>
+      <map id="1334081202"/>
+      <map id="1334081220"/>
+      <map id="1334081238"/>
+      <map id="3839877737"/>
+      <map id="3839877773"/>
+      <map id="3839877755"/>
+      <map id="3839878079"/>
+      <map id="3839878115"/>
+      <map id="3839878097"/>
+      <map id="3839877683"/>
+      <map id="3839877719"/>
+      <map id="3839877701"/>
+      <map id="3839878148"/>
+      <map id="3839878181"/>
+      <map id="3839878163"/>
+    </maps>
+  </Playlist>
+  <Playlist id="40" preference="0" engineName="EVENT - SPANISH REINFORCEMENT" oasisId="378657" description="378658" shortDescription="0" groupSize="4" hidden="true" sessionSize="4" dlcId="0" leaderboardId="111" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
+    <modes>
+      <mode id="2"/>
+    </modes>
+    <maps>
+      <map id="817925992"/>
+      <map id="2569229104"/>
+      <map id="1364636314"/>
+      <map id="12873453"/>
+      <map id="12873362"/>
+      <map id="12873395"/>
+      <map id="12873459"/>
+      <map id="12873368"/>
+      <map id="12873401"/>
+    </maps>
+  </Playlist>
+  <Playlist id="41" preference="0" engineName="EVENT - TREASURE HUNT" oasisId="378666" description="378667" shortDescription="0" groupSize="4" hidden="true" sessionSize="8" dlcId="0" leaderboardId="112" statutFlag="0" sessionType="5" groupModes="false" isMoneySinkEnabled="true" private="false" difficulty="0" devPlaylist="true">
+    <modes>
+      <mode id="4"/>
+      <mode id="6"/>
+    </modes>
+    <maps>
+      <map id="194686408"/>
+      <map id="194686397"/>
+      <map id="1176549195"/>
+      <map id="2063828221"/>
+      <map id="1176549879"/>
+      <map id="1176549885"/>
+    </maps>
+  </Playlist>
+</Playlists>

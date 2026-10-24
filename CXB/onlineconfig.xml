@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<root>
+  <OnlineConfig WaitForSkinsToLoadMap="true" UseSessionNatFilter="false" UseHostNatFilter="false" DisbandTime="15" DisbandThreshold="8" DisbandMaxPlayers="3" DisbandEndMatchAddition="30" SecurityTime="120" TimeToJoin="20" JoinTimeout="5000" PeerPingActivated="true" TrialDLCEnabled="true" ServerReconnectTime="30" FriendStatusUpdateTime="120" MaxDailyRecruitment="3" LadderRankingUpdateTime="3600" LadderUpdateLeaderboardHour="6" MaxDisbandTime="70" MessageBoxWhenDontFindGameMode="true">
+    <Beginner BeginnerPlayerMax="10" LevelRuleMultiplicator="2"/>
+    <Playlist BeginnerPlaylist="2" BeginnerGamemode="12" DownloadContentDlcId="2"/>
+    <Statistics FriendsLeagueCachetimeout="600" LeaderboardsCachetimeout="600" MinLevelForRatioLeaderboards="10"/>
+    <Reservation ReservationPendingTime="15" SearchAddingSlots="0" ACKWaitingTime="3" AcceptWaitingTime="5"/>
+    <Group GroupSizeMax="4" WaitTimeToReceiveInvite="10" SecuritySlotAddedForGroupSearch="0" MaxGroupBySession="4" P2PSessionActive="true" ClanCheckHack="true"/>
+    <TeamDisband AddedSlotToBegin="2" ValidationMBTime="10" SizeToStartTeamMode="4"/>
+    <Blacklist>
+      <Param maxsize="10"/>
+      <SessionLeft timeout="35" score="-1"/>
+      <BadVersion timeout="600" score="10"/>
+      <SessionFull timeout="120" score="10"/>
+      <JoinTimeout timeout="60" score="10"/>
+      <AddMemberFailed timeout="60" score="10"/>
+      <GroupJoinFailed timeout="120" score="-1"/>
+      <Default timeout="30" score="10"/>
+    </Blacklist>
+    <PlayNow>
+      <populationStep max="100" value="1"/>
+      <populationStep max="250" value="3"/>
+      <populationStep max="1000" value="4"/>
+      <populationStep max="10000000" value="5"/>
+    </PlayNow>
+    <PlayNowBigEvent enable="false">
+      <ratioStep ratio="0.1" drawPercent="50"/>
+      <ratioStep ratio="0.3" drawPercent="25"/>
+      <ratioStep ratio="0.5" drawPercent="10"/>
+      <ratioStep ratio="0.8" drawPercent="5"/>
+    </PlayNowBigEvent>
+    <CommunityInfo LowToMediumThresholdComActivity="250" MediumToHighThresholdComActivity="1000" CoefToGetSessions="0.2"/>
+    <TriParams>
+      <pingRange ping="100" score="2.5"/>
+      <pingRange ping="200" score="1.8"/>
+      <pingRange ping="250" score="1.6"/>
+      <pingRange ping="300" score="1.4"/>
+      <pingRange ping="400" score="1"/>
+      <pingRange ping="-1" score="0"/>
+      <sessionLevelRange levelDifference="2" score="2.0"/>
+      <sessionLevelRange levelDifference="5" score="1.6"/>
+      <sessionLevelRange levelDifference="10" score="1.3"/>
+      <sessionLevelRange levelDifference="15" score="1.2"/>
+      <sessionLevelRange levelDifference="-1" score="1"/>
+      <sessionStarted scoreNotStarted="1.3" scoreStarted="1.2"/>
+      <language scoreMatch="1.2" scoreDoesntMatch="1"/>
+      <sessionNatType player="1" session="3" score="2"/>
+      <sessionNatType player="1" session="1" score="1.5"/>
+      <sessionNatType player="1" session="2" score="1"/>
+      <sessionNatType player="2" session="1" score="1.5"/>
+      <sessionNatType player="2" session="2" score="2"/>
+      <sessionNatType player="2" session="3" score="1"/>
+      <sessionNatType player="3" session="1" score="2"/>
+      <sessionNatType player="3" session="2" score="1"/>
+      <sessionNatType player="3" session="3" score="1"/>
+      <hostNatType player="1" session="3" score="2"/>
+      <hostNatType player="1" session="1" score="1.5"/>
+      <hostNatType player="1" session="2" score="1"/>
+      <hostNatType player="2" session="1" score="1.5"/>
+      <hostNatType player="2" session="2" score="2"/>
+      <hostNatType player="2" session="3" score="1"/>
+      <hostNatType player="3" session="1" score="2"/>
+      <hostNatType player="3" session="2" score="1"/>
+      <hostNatType player="3" session="3" score="1"/>
+      <sessionQosScore weight="1.0" updateDelay="5.0"/>
+    </TriParams>
+    <P2P>
+      <QOS Refresh="2000" FactorRoutes="1.0" FactorNat="1.0" FactorPing="1.0"/>
+      <HybridMode Activated="false" Optimize="true" ReportOptimize="true"/>
+      <HybridQoS Activated="false" MinScore="0.2"/>
+      <Consistency Activated="true" KickTimeout="30000" ReportDecision="true" ExecuteKickOnClient="true" ExecuteKickOnHost="true"/>
+    </P2P>
+    <Gameplay CanStunPoisonerBeforeFX="true" InAdvanceTimeForSmokeBomb="0.25" KillFromHaystackDistance="4.15" HumiliationFromHaystackDistance="4.15" KillToHaystackDistance="4.15" HumiliationToHaystackDistance="4.15"/>
+    <UplayPassport>
+      <KillSwitch value="1"/>
+      <TrialPeriodMinutes value="-1"/>
+      <TrialPeriodMaxLevel value="10"/>
+      <TrialPeriodType value="level"/>
+    </UplayPassport>
+    <StreamParams>
+      <DO>
+        <WindowSize value="16"/>
+        <MaxRetransmit value="50"/>
+        <RTTInitial value="250"/>
+        <RTTRetransmit value="50"/>
+        <MaxSilence value="5000"/>
+        <UnreliableDropMinTrigger value="8"/>
+        <UnreliableDropMaxTrigger value="16"/>
+        <KeepAliveTimeout value="1000"/>
+        <RetransmitTimeoutMultiplier value="1.25"/>
+        <ExtraRetransmitTimeoutMultiplier value="1.0"/>
+        <ExtraRetransmitTimeoutTrigger value="50"/>
+        <ReliableBackOff value="0"/>
+      </DO>
+      <NAT>
+        <WindowSize value="8"/>
+        <MaxRetransmit value="20"/>
+        <RTTInitial value="250"/>
+        <RTTRetransmit value="50"/>
+        <MaxSilence value="5000"/>
+        <UnreliableDropMinTrigger value="8"/>
+        <UnreliableDropMaxTrigger value="16"/>
+        <KeepAliveTimeout value="1000"/>
+        <RetransmitTimeoutMultiplier value="1.25"/>
+        <ExtraRetransmitTimeoutMultiplier value="1.0"/>
+        <ExtraRetransmitTimeoutTrigger value="50"/>
+        <ReliableBackOff value="0"/>
+      </NAT>
+      <Routing>
+        <WindowSize value="8"/>
+        <MaxRetransmit value="20"/>
+        <RTTInitial value="250"/>
+        <RTTRetransmit value="50"/>
+        <MaxSilence value="5000"/>
+        <UnreliableDropMinTrigger value="8"/>
+        <UnreliableDropMaxTrigger value="16"/>
+        <KeepAliveTimeout value="1000"/>
+        <RetransmitTimeoutMultiplier value="1.25"/>
+        <ExtraRetransmitTimeoutMultiplier value="1.0"/>
+        <ExtraRetransmitTimeoutTrigger value="50"/>
+        <ReliableBackOff value="0"/>
+      </Routing>
+      <RVAuthentication>
+        <WindowSize value="8"/>
+        <MaxRetransmit value="20"/>
+        <RTTInitial value="250"/>
+        <RTTRetransmit value="50"/>
+        <MaxSilence value="60000"/>
+        <UnreliableDropMinTrigger value="8"/>
+        <UnreliableDropMaxTrigger value="16"/>
+        <KeepAliveTimeout value="10000"/>
+        <RetransmitTimeoutMultiplier value="1.25"/>
+        <ExtraRetransmitTimeoutMultiplier value="1.0"/>
+        <ExtraRetransmitTimeoutTrigger value="50"/>
+        <ReliableBackOff value="0"/>
+      </RVAuthentication>
+    </StreamParams>
+    <ClansParams AutoRefresh="120" KillSwitch="false"/>
+    <UplayBrowser link="http://static8.ubi.com/private/UAT/u/sites/0.5/index.html"/>
+  </OnlineConfig>
+</root>

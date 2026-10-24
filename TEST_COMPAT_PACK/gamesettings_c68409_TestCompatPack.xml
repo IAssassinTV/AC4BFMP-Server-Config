@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Field ObjectID="2765210361" PropertyName="MandatoryCompatibilityPacks">
+    <ArraySlot action="insert" index="0" ClassID="1411542210" StoreIDTag="<CompatPack1>">
+	<!-- Compatibility pack 1 -->
+		<SubField PropertyName="LegacyOfferId" value="0x555308C286d86800" />
+		<SubField PropertyName="DLCMask" value="2" />
+		<SubField PropertyName="Mandatory" value="true" />
+	</ArraySlot>
+    <ArraySlot action="insert" index="0" ClassID="1411542210" StoreIDTag="<CompatPack2>">
+	<!-- Compatibility pack 2 -->
+		<SubField PropertyName="LegacyOfferId" value="0x555308c297136400" />
+		<SubField PropertyName="DLCMask" value="32" />
+		<SubField PropertyName="Mandatory" value="true" />
+	</ArraySlot>
+  </Field>
+</root>

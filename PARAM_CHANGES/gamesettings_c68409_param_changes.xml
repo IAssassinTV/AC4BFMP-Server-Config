@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<!-- POX File AbilityTeleport.pox - Jira ACGAMP-28206 -->
+  <Field ObjectID="2308572798" PropertyName="CastingTime">
+    <ArraySlot index="0" value="3.5" />
+    <ArraySlot index="1" value="3.15" />
+    <ArraySlot index="2" value="2.8" />
+  </Field>
+<!-- END POX FILE : AbilityTeleport.pox -->
+
+<!-- POX File UGMAAValues.pox - Jira ACGAMP-28203 -->
+  <Field ObjectID="692809208" PropertyName="Value" value="6" />
+<!-- END POX FILE : UGMAAValues.pox -->
+
+<!-- From POX FILE : Gear2_Right_Male&Female.pox - Jira ACGAMP-29343 -->
+<Field ObjectID="3664272082" PropertyName="Conditions">
+    <ArraySlot index="0">
+      <SubField PropertyName="Operator" value="1" />
+      <SubField PropertyName="SubConditions">
+        <ArraySlot index="-1" action="insert" ClassID="145127127">
+          <SubField PropertyName="SkinID" value="119" />
+          <SubField PropertyName="Enabled" value="True" />
+          <SubField PropertyName="Negation" value="False" />
+          <SubField PropertyName="Evaluated" value="False" />
+          <SubField PropertyName="Active" value="False" />
+          <SubField PropertyName="Category" value="0" />
+          <SubField PropertyName="Type" value="0" />
+          <SubField PropertyName="HeldTime" value="0" />
+        </ArraySlot>
+      </SubField>
+    </ArraySlot>
+  </Field>
+  <Field ObjectID="3664271913" PropertyName="Conditions">
+    <ArraySlot index="0">
+      <SubField PropertyName="Operator" value="1" />
+      <SubField PropertyName="SubConditions">
+        <ArraySlot index="-1" action="insert" ClassID="145127127">
+          <SubField PropertyName="SkinID" value="120" />
+          <SubField PropertyName="Enabled" value="True" />
+          <SubField PropertyName="Negation" value="False" />
+          <SubField PropertyName="Evaluated" value="False" />
+          <SubField PropertyName="Active" value="False" />
+          <SubField PropertyName="Category" value="0" />
+          <SubField PropertyName="Type" value="0" />
+          <SubField PropertyName="HeldTime" value="0" />
+        </ArraySlot>
+      </SubField>
+    </ArraySlot>
+  </Field>
+<!-- end of POX FILE : Gear2_Right_Male&Female.pox - Jira ACGAMP-29343 -->
+  
+<!-- From POX FILE : BonusKBAnimusHack.pox - Jira ACGAMP-29204 -->
+<Field ObjectID="3544140104" PropertyName="UGMMultiplier" value="1"/>
+<Field ObjectID="2710946785" PropertyName="DefaultValueIndex" value="100"/>
+<!-- end of POX FILE : BonusKBAnimusHack.pox - Jira ACGAMP-29204 -->
+
+<!-- From POX FILE : CamCP2.pox - Jira ACGAMP-28977 -->
+<Field ObjectID="975920672" PropertyName="Conditions">
+    <ArraySlot index="0">
+      <SubField PropertyName="SubConditions">
+        <ArraySlot index="-1" action="insert" ClassID="145127127">
+          <SubField PropertyName="SkinID" value="120" />
+          <SubField PropertyName="Enabled" value="True" />
+          <SubField PropertyName="Negation" value="False" />
+          <SubField PropertyName="Evaluated" value="False" />
+          <SubField PropertyName="Active" value="False" />
+          <SubField PropertyName="Category" value="0" />
+          <SubField PropertyName="Type" value="0" />
+          <SubField PropertyName="HeldTime" value="0" />
+        </ArraySlot>
+        <ArraySlot index="-1" action="insert" ClassID="145127127">
+          <SubField PropertyName="SkinID" value="119" />
+          <SubField PropertyName="Enabled" value="True" />
+          <SubField PropertyName="Negation" value="False" />
+          <SubField PropertyName="Evaluated" value="False" />
+          <SubField PropertyName="Active" value="False" />
+          <SubField PropertyName="Category" value="0" />
+          <SubField PropertyName="Type" value="0" />
+          <SubField PropertyName="HeldTime" value="0" />
+        </ArraySlot>
+        <ArraySlot index="-1" action="insert" ClassID="145127127">
+          <SubField PropertyName="SkinID" value="101" />
+          <SubField PropertyName="Enabled" value="True" />
+          <SubField PropertyName="Negation" value="False" />
+          <SubField PropertyName="Evaluated" value="False" />
+          <SubField PropertyName="Active" value="False" />
+          <SubField PropertyName="Category" value="0" />
+          <SubField PropertyName="Type" value="0" />
+          <SubField PropertyName="HeldTime" value="0" />
+        </ArraySlot>
+      </SubField>
+    </ArraySlot>
+</Field>
+<!-- end of POX FILE : CamCP2.pox - Jira ACGAMP-28977 -->
+
+<!-- From POX FILE : SoundsTU4.pox - Jira ACGAMP-27353 -->
+<Field ObjectID="1610303387" PropertyName="ACR_Sounds">
+    <ArraySlot index="230">
+      <SubField PropertyName="EngineIndex" value="230" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+			<SubField PropertyName="ShortID" value="1959439077" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="231">
+      <SubField PropertyName="EngineIndex" value="231" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="2338860495" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="232">
+      <SubField PropertyName="EngineIndex" value="232" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="2174849623" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="308">
+      <SubField PropertyName="EngineIndex" value="308" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="394882192" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="309">
+      <SubField PropertyName="EngineIndex" value="309" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="709711753" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="310">
+      <SubField PropertyName="EngineIndex" value="310" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="1262967452" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="311">
+      <SubField PropertyName="EngineIndex" value="311" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="2051100142" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="312">
+      <SubField PropertyName="EngineIndex" value="312" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="4085749566" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="313">
+      <SubField PropertyName="EngineIndex" value="313" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="1118409170" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="314">
+      <SubField PropertyName="EngineIndex" value="314" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="284645715" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+    <ArraySlot index="315">
+      <SubField PropertyName="EngineIndex" value="315" />
+      <SubField PropertyName="SoundInstance">
+        <SubField PropertyName="InfiniteVoiceStackTimeout" value="False" />
+        <SubField PropertyName="SoundDescriptor">
+          <SubField PropertyName="WwiseEventID">
+            <SubField PropertyName="ShortID" value="3813868143" />
+          </SubField>
+        </SubField>
+      </SubField>
+    </ArraySlot>
+  </Field>  
+<!-- end of POX FILE : SoundsTU4.pox -->
+
+<!-- From POX FILE : WP_DLCMaps.pox -->
+<!-- Unlockable Wolfpack Mission -->
+<!-- Filling the new added UnlockableWolfpackMission -->													
+  <!-- Charlestown -->																							
+  <Field ObjectID="115320145" PropertyName="Missions">
+	<ArraySlot index="0" action="insert" value="547941928" />
+	<ArraySlot index="1" action="insert" value="547941929" />
+	<ArraySlot index="2" action="insert" value="547941930" />
+  </Field>
+  <!-- Kingstone --> 
+  <Field ObjectID="115320136" PropertyName="Missions">
+	<ArraySlot index="0" action="insert" value="2854698277" />
+	<ArraySlot index="1" action="insert" value="2854698278" />
+	<ArraySlot index="2" action="insert" value="2854698279" />
+  </Field>
+  <!-- Plantation -->
+  <Field ObjectID="115320118" PropertyName="Missions">
+	<ArraySlot index="0" action="insert" value="3810039311" />
+	<ArraySlot index="1" action="insert" value="3810039312" />
+	<ArraySlot index="2" action="insert" value="3810039313" />
+  </Field>
+  <!-- StMathieu -->
+  <Field ObjectID="115320127" PropertyName="Missions">
+	<ArraySlot index="0" action="insert" value="2086382120" />
+	<ArraySlot index="1" action="insert" value="2086382121" />
+	<ArraySlot index="2" action="insert" value="2086382122" />
+  </Field>
+  <!-- End POX FILE : WP_DLCMaps.pox -->
+	
+  <!-- From POX FILE : BonusKBPoisonDart.pox -->
+    <Field ObjectID="2710946781" PropertyName="DefaultValueIndex" value="300" />
+  <!-- END POX FILE : BonusKBPoisonDart.pox -->
+
+  <!-- Jira ACGAMP 27853 -->
+  <Field ObjectID="3772363002" PropertyName="TargetType" value="12" />
+  <Field ObjectID="3772363002" PropertyName="AnvilTargetType">
+    <ArraySlot index="0" value="2" />
+    <ArraySlot index="1" action="insert" value="3" />
+  </Field>
+  <Field ObjectID="3772363001" PropertyName="TargetType" value="12" />
+  <Field ObjectID="3772363001" PropertyName="AnvilTargetType">
+    <ArraySlot index="0" value="2" />
+    <ArraySlot index="1" action="insert" value="3" />
+  </Field>
+
+  <!-- Jira ACGAMP 26296 -->
+  <Field ObjectID="2099" PropertyName="MusicSettings">
+    <SubField PropertyName="WorldChangeNotifications">
+      <ArraySlot index="16">
+        <SubField PropertyName="SoundInstance">
+          <SubField PropertyName="SoundDescriptor">
+            <SubField PropertyName="WwiseEventID">
+              <SubField PropertyName="ShortID" value="3719754425" />
+            </SubField>
+          </SubField>
+        </SubField>
+      </ArraySlot>
+    </SubField>
+  </Field>
+
+  <!-- FFA Income fix for Abstergo Credits -->
+  <Field ObjectID="2510664384" PropertyName="AbstergoCredits_Session_FFARank1">
+    <SubField PropertyName="Value" value="160" />
+  </Field>
+  <Field ObjectID="2510664384" PropertyName="AbstergoCredits_Session_FFARank2">
+    <SubField PropertyName="Value" value="140" />
+  </Field>
+  <Field ObjectID="2510664384" PropertyName="AbstergoCredits_Session_FFARank3">
+    <SubField PropertyName="Value" value="130" />
+  </Field>
+  <Field ObjectID="2510664384" PropertyName="AbstergoCredits_Session_FFARank4">
+    <SubField PropertyName="Value" value="120" />
+  </Field>
+  <Field ObjectID="2510664384" PropertyName="AbstergoCredits_Session_FFARank5">
+    <SubField PropertyName="Value" value="110" />
+  </Field>
+
+
+  <!-- Jira ACGAMP 25127 -->
+  <Field ObjectID="3517059394" PropertyName="Voice">
+    <SubField PropertyName="InfiniteVoiceStackTimeout" value="True" />
+  </Field>
+
+  <!-- FROM POX FILE : abilities.pox -->
+  <!-- Wolfpack archetype vs Morph -->
+  <Field ObjectID="3484133262" PropertyName="ArchetypeArray">
+    <ArraySlot index="16">
+      <SubField PropertyName="MorphFactor" value="1" />
+      <SubField PropertyName="HiddenFactor" value="1" />
+    </ArraySlot>
+  </Field>
+  <!-- END POX FILE : abilities.pox -->
+  
+  <!-- FROM POX FILE : DOMCaptureZoneSize.pox -->
+  <Field ObjectID="692809231" PropertyName="Value" value="5" />
+  <Field ObjectID="692809232" PropertyName="Value" value="8" />
+  <!-- END POX FILE : DOMCaptureZoneSize.pox -->
+ 
+</root>

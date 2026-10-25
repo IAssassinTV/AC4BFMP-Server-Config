@@ -317,5 +317,92 @@
   <Field ObjectID="692809231" PropertyName="Value" value="5" />
   <Field ObjectID="692809232" PropertyName="Value" value="8" />
   <!-- END POX FILE : DOMCaptureZoneSize.pox -->
+
+  <!-- Special offers: the luxury outfits (one per character, 60000 credits / 1699 Erudito) 40% off until 2099-12-31 00:00 UTC -->
+  <!-- The Rebel: The Indian Princess -->
+  <Field ObjectID="1451905600" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451905600" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451905600" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Stowaway: The Fraud -->
+  <Field ObjectID="2759169670" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="2759169670" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="2759169670" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Wayfarer: The Blazing Bandit -->
+  <Field ObjectID="1451905930" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451905930" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451905930" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Jaguar: The Celestial Warrior -->
+  <Field ObjectID="1451906260" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451906260" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451906260" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Huntsman: The Golden Dusk -->
+  <Field ObjectID="1451906590" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451906590" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451906590" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- Blackbeard: The Sea Terror -->
+  <Field ObjectID="1451906920" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451906920" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451906920" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- Lady Black: The Vanity Girl -->
+  <Field ObjectID="1451907250" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451907250" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451907250" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Mercenary: The Magnificent -->
+  <Field ObjectID="1451907580" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451907580" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451907580" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Buccaneer: The Usurper -->
+  <Field ObjectID="1451907910" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451907910" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451907910" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Physician: The Archdeacon -->
+  <Field ObjectID="1451908240" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451908240" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451908240" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Navigator: The Majestic -->
+  <Field ObjectID="1451908570" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451908570" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451908570" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Night Stalker: The Reptile -->
+  <Field ObjectID="1451908900" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1451908900" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1451908900" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Orchid: The Emperor's Advisor -->
+  <Field ObjectID="1452441710" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1452441710" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1452441710" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Puppeteer: The Court Girl -->
+  <Field ObjectID="1452442040" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1452442040" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1452442040" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Adventurer: The Hidalgo -->
+  <Field ObjectID="1452442370" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1452442370" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1452442370" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Cutthroat: The Swanky Shank -->
+  <Field ObjectID="1452442700" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1452442700" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1452442700" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Dandy: The Count -->
+  <Field ObjectID="1645379892" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1645379892" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1645379892" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Duellist: The Regal Fox -->
+  <Field ObjectID="1452443030" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1452443030" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1452443030" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Firebrand: The Caribbean Pearl -->
+  <Field ObjectID="1452443360" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="1452443360" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="1452443360" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Shaman: The Houngan Asogwe -->
+  <Field ObjectID="2759169868" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="2759169868" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="2759169868" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- The Siren: The Pink Coral -->
+  <Field ObjectID="2759170066" PropertyName="SalesEndDate" value="4102358400" />
+  <Field ObjectID="2759170066" PropertyName="AbstergoSalesPrice" value="36000" />
+  <Field ObjectID="2759170066" PropertyName="TokenSalesPrice" value="1019" />
+  <!-- END Special offers -->
  
 </root>
